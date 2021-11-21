@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FracCalcTestHelper
+comment0.text=\n\ Helper\ class\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=answer\ candidate
+comment1.target=boolean\ areFracsEqual(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Checks\ if\ two\ fractions\ are\ equal.\n\ \n\ @param\ answer\ Answer\n\ @param\ candidate\ Answer\ to\ check\n\ @return\ True\ if\ equal,\ false\ if\ not\ equal\n
+comment2.params=value\ what
+comment2.target=int\ parseValue(java.lang.String,\ int)
+comment2.text=\n\ Parses\ fraction\n\ \n\ @param\ value\ String\ of\ fraction\n\ @param\ what\ Enum\:\ 1\ for\ numerator,\ 2\ for\ denominator,\ 3\ for\ whole\n\ @return\ Fraction\ part\n
+comment3.params=s
+comment3.target=boolean\ isInteger(java.lang.String)
+comment3.text=\n\ Checks\ if\ String\ is\ integer\n\ \n\ @param\ s\ String\ to\ check\n\ @return\ True\ if\ integer,\ False\ if\ not\n
+numComments=4

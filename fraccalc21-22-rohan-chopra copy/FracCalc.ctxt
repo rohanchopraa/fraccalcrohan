@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FracCalc
+comment0.text=\n\ Calculates\ fractions.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Runs\ a\ fraction\ calculator.\n\ \n\ @param\ args\ Not\ used\n
+comment2.params=input
+comment2.target=java.lang.String\ produceAnswer(java.lang.String)
+comment2.text=\n\ **\ IMPORTANT\ **\ DO\ NOT\ DELETE\ THIS\ FUNCTION.\n\ This\ function\ will\ be\ used\ to\ test\ your\ code\n\ This\ function\ takes\ a\ String\ 'input'\ and\ produces\ the\ result\n\ \n\ @param\ input\ A\ fraction\ string\ that\ needs\ to\ be\ evaluated.\n\ For\ your\ program,\ this\ will\ be\ the\ user\ input.\n\ \ \ \ \ e.g.\ input\ \=\=>\ "1/2\ +\ 3/4"\n\ @return\ The\ result\ of\ the\ fraction\ after\ it\ has\ been\ calculated\n\ \ \ \ \ e.g.\ return\ \=\=>\ "1_1/4"\n
+comment3.params=p\ q
+comment3.target=int\ gcf(int,\ int)
+comment3.text=\n\ GCF\n\ \n\ @param\ p\ first\ int\n\ @param\ q\ second\ int\n\ @return\ The\ GCF\n
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FracCalcTestALL
+comment1.params=answer1\ answer2\ answer3\ candidate
+comment1.target=void\ assertForEarlyCheckpoints(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Runs\ a\ early\ checkpoint\ tests.\n\ \n\ @param\ answer1\ Checkpoint1\ answer\n\ @param\ answer2\ Checkpoint2\ answer\n\ @param\ answer3\ Checkpoint3\ answer\n\ @param\ candidate\ Answer\ to\ check\n
+numComments=2
